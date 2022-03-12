@@ -1,7 +1,7 @@
 # movie-review-app
 
 # Purpose
-{untitled} is an android application that will allow users to rate the movies they have watched and view ratings on movies by other users.
+{untitled} is an android application that will allow users to rate movies and view movie ratings + reviews made by other users.
 
 # Technical Components
 1. API to IMDB
